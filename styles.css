@@ -1,0 +1,13 @@
+nav{
+    display: inline;
+    text-align: center;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:aliceblue;
+    text-align: center;
+}
+a:link{
+    color: brown;
+    text-decoration: none;
+}
